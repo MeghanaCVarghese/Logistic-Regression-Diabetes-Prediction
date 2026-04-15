@@ -50,6 +50,14 @@ To develop a binary classification model that accurately predicts diabetes outco
 
 ---
 
+## 🔍 Key Insights
+- Higher glucose levels significantly increase diabetes risk
+- BMI is strongly correlated with diabetes probability
+- Age and genetic factors (Diabetes Pedigree Function) play important roles
+- Logistic Regression provides interpretable results compared to complex models
+
+---
+
 ## 🚀 Deployment
 The model is deployed using Streamlit where users can input medical parameters and get real-time predictions.
 
